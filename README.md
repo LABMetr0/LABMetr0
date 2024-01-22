@@ -4,5 +4,7 @@ O LABMETRO tem como objetivo desenvolver trabalhos com ênfase à Metrologia Mec
 
 Site: https://rosanamvieira.wixsite.com/labmetro
 
-Atenção!! 	:warning:
-Esses repositórios no github atualmente estão sendo usados como uma hospedagem na nuvem para que não se perca alguns códigos fontes e algumas coisas que foram feitas e estudadas até agora.
+
+## Atenção!!  :warning:
+
+Esses repositórios no github atualmente estão sendo usados como uma hospedagem na nuvem para que não se perca alguns códigos fontes e algumas coisas que foram feitas e estudadas até agora. Futuramente, será usado para trabalho em grupo para versionar o software de uma maneira mais organizada.
